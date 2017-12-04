@@ -70,7 +70,7 @@
 								<img class="d-block w-100" src="assets/images/17.jpg" alt="First slide">
 								<div class="carousel-caption d-none d-md-block">
 									<h3 class="font-weight-bold">Design</h3>
-									<p class="image-text font-weight-bold">We believe that design is art. Building beautiful websites and apps is a passion that we love. </p>
+									<p class="image-text font-weight-bold">We believe that design is art. Building beautiful websites and apps is what we love to do. </p>
 								</div>
 							</div>
 							<div class="carousel-item">
@@ -84,7 +84,7 @@
 								<img class="d-block w-100" src="assets/images/19.jpg" alt="Third slide">
 								<div class="carousel-caption d-none d-md-block">
 									<h3 class="font-weight-bold">Exciting</h3>
-									<p class="image-text font-weight-bold">Creating things is exciting and we want to create for you. Whatever idea you have, we want to do. Contact us for more information. We would love to talk to you!</p>
+									<p class="image-text font-weight-bold">Creating beautiful websites is exciting and we want to create for you. Whatever idea you have, we want to do. Contact us for more information. We would love to talk to you!</p>
 								</div>
 							</div>
 						</div>
