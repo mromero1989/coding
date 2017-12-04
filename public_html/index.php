@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
 
+	<head>
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,6 +25,7 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
+		<!--google fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
@@ -32,7 +33,6 @@
 		<script src="https://use.fontawesome.com/f75c8f006c.js"></script>
 
 		<title>Build & Work</title>
-
 	</head>
 
 	<body>
@@ -47,16 +47,16 @@
 						<a class="nav-link text-dark" href="#about">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link text-dark" href="#">Work</a>
+						<a class="nav-link text-dark" href="#work">Work</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link text-dark" href="#">Contact</a>
+						<a class="nav-link text-dark" href="#contact1">Contact</a>
 					</li>
 				</ul>
 			</div>
 		</nav>
 
-		<div class="container p-2">
+		<div class="container p-3">
 			<div class="row">
 				<div class="col-sm-12">
 					<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -114,7 +114,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 about text-center p-5" id="about">
+				<div class="col-sm-12 about text-center p-5" id="work">
 					Work
 				</div>
 				<div class="card-group p-5">
@@ -150,7 +150,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 about text-center p-5" id="about">
+				<div class="col-sm-12 about text-center p-5" id="contact1">
 					Contact
 				</div>
 			</div>
@@ -176,8 +176,6 @@
 					<fieldset>
 						<button class="btn btn-success slide__link mt-3" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning slide__link mt-3" type="reset"><i class="fa fa-ban"></i> Reset</button>
-<!--						<a class="nav-link text-dark justify-content" href="">submit</a>-->
-<!--						<a class="nav-link text-dark mx-auto" href="">reset</a>-->
 					</fieldset>
 				</form>
 			</div>
@@ -198,20 +196,21 @@
 						<br>
 						<a href="mailto:bldwrk@icloud.com">bldwrk@icloud.com</a>
 					</address>
-					<a class="btn btn-social-icon btn-twitter ml-auto">
+					<a class="btn btn-social-icon btn-twitter ml-auto" href="https://twitter.com" target="_blank">
 						<span class="fa fa-twitter"></span>
 					</a>
-					<a class="btn btn-social-icon btn-facebook">
+					<a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com" target="_blank">
 						<span class="fa fa-facebook"></span>
 					</a>
-					<a class="btn btn-social-icon btn-linkedin">
+					<a class="btn btn-social-icon btn-linkedin" href="https://www.linkedin.com" target="_blank">
 						<span class="fa fa-linkedin"></span>
 					</a>
-					<a class="btn btn-social-icon btn-instagram">
+					<a class="btn btn-social-icon btn-instagram" href="https://www.instagram.com" target="_blank">
 						<span class="fa fa-instagram mr-auto"></span>
 					</a>
 				</div>
 			</div>
 		</footer>
+
 	</body>
 </html>
