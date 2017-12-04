@@ -123,6 +123,7 @@
 						<div class="card-body">
 							<h4 class="card-title">Demo 1</h4>
 							<p class="card-text">Exceeding reaction chamber thermal limit. We have begun power-supply calibration. Force fields have been established on all turbo lifts and crawlways. Computer, run a level-two diagnostic on warp-drive systems. Antimatter containment positive. Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod. The bomb had a molecular-decay detonator. Detecting some unusual fluctuations in subspace frequencies.</p>
+							<a class="nav-link text-primary" href="https://bootcamp-coders.cnm.edu/~mromero308/buildandwork/public_html/" target="_blank">Explore</a>
 							<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
@@ -132,6 +133,7 @@
 							<h4 class="card-title">Demo 2</h4>
 							<p class="card-text"><p>
 								Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven. There's no evidence of an advanced communication network. Total guidance system failure, with less than 24 hours' reserve power. Shield effectiveness has been reduced 12 percent. We have covered the area in a spherical pattern which a ship without warp drive could cross in the given time.</p>
+							<a class="nav-link text-primary" href="https://bootcamp-coders.cnm.edu/~mromero308/pwp/public_html/" target="_blank">Explore</a>
 							<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
