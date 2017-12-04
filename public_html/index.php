@@ -119,7 +119,7 @@
 				</div>
 				<div class="card-group p-5">
 					<div class="card">
-						<img class="card-img-top" src="assets/images/25.jpg" alt="Card image cap">
+						<img class="card-img-top" src="assets/images/screen1.png" alt="Card image cap">
 						<div class="card-body">
 							<h4 class="card-title">Demo 1</h4>
 							<p class="card-text">Exceeding reaction chamber thermal limit. We have begun power-supply calibration. Force fields have been established on all turbo lifts and crawlways. Computer, run a level-two diagnostic on warp-drive systems. Antimatter containment positive. Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod. The bomb had a molecular-decay detonator. Detecting some unusual fluctuations in subspace frequencies.</p>
@@ -128,7 +128,7 @@
 						</div>
 					</div>
 					<div class="card">
-						<img class="card-img-top" src="assets/images/26.jpg" alt="Card image cap">
+						<img class="card-img-top" src="assets/images/screen2.png" alt="Card image cap">
 						<div class="card-body">
 							<h4 class="card-title">Demo 2</h4>
 							<p class="card-text"><p>
