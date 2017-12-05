@@ -56,7 +56,7 @@
 			</div>
 		</nav>
 
-		<div class="container p-3">
+		<div class="container p-3 mb-3">
 			<div class="row">
 				<div class="col-sm-12">
 					<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -175,11 +175,14 @@
 					</fieldset>
 					<!--google recaptcha-->
 					<div class="g-recaptcha mt-3" data-sitekey="6LeslToUAAAAAG1s1ktnY_cC3pmDcw_oHhxZAhyK"></div>
-					<fieldset>
 						<button class="btn btn-success slide__link mt-3" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning slide__link mt-3" type="reset"><i class="fa fa-ban"></i> Reset</button>
-					</fieldset>
 				</form>
+			</div>
+			<div class="row">
+				<div class="col-sm-4 offset sm-4">
+					<div id="output-area"></div>
+				</div>
 			</div>
 		</div>
 
