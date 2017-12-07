@@ -1,14 +1,6 @@
-/*.navbar-brand {*/
-	/*font-family: 'Cutive Mono', monospace;*/
-/*}*/
-
 .nav-link {
 	font-family: 'Cutive Mono', monospace;
 }
-
-/*.about {*/
-	/*font-family: 'Cutive Mono', monospace;*/
-/*}*/
 
 p {
 	font-family: 'Cutive Mono', monospace;
@@ -34,8 +26,11 @@ button.btn.btn-success.slide__link {
 	margin-left: 4em;
 }
 
-input {
+input, textarea {
 	border: none;
 	font-family: 'Cutive Mono', monospace;
 }
 
+li {
+	list-style-type: none;
+}
