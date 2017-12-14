@@ -79,7 +79,7 @@
 								<img class="d-block w-100" src="assets/images/18.jpg" alt="Second slide">
 								<div class="carousel-caption d-none d-md-block">
 									<h3 class="font-weight-bold">UX</h3>
-									<p class="image-text bg-white text-dark">I like images that pop and I believe that design has the power to make you feel. I want our projects to reflect the beauty all our around us. I want people to look at something truly amazing. But the most important thing I want is a good user experience. Something simple that works while also providing functionality.</p>
+									<p class="image-text bg-white text-dark">I like images that pop and I believe that design has the power to make you feel. I want our projects to reflect the beauty all around us. I want people to look at something unique. But the most important thing I want is a good user experience. Something simple that works while also providing efficient functionality.</p>
 								</div>
 							</div>
 							<div class="carousel-item">
@@ -109,7 +109,7 @@
 					About
 				</div>
 				<div class="col-sm-12 p-5">
-					<p class="text-justify">I specialize in web design, UI/UX design, graphic design, music production and film making. I am a creative at heart and have a history in music production, photography, writing and film. I use PHP, Javascript, HTML/CSS, Bootstrap and Angular in creating my websites. I want to create experiences and to tell a story. What story do you have? What would you like the world to see? I can help you on the path to creating something beautiful, something that's truly amazing. </p>
+					<p class="text-justify">I specialize in web design, UI/UX design, graphic design, music production and film making. I am a creative at heart and have had experience in music production, photography, writing and film. I use PHP, Javascript, HTML/CSS, Bootstrap 3 and Angular 5 in creating my websites. I want to create experiences and to tell a story. What story do you have? What would you like the world to see? I can help you on the path to creating something beautiful, modern and something that's truly amazing. </p>
 				</div>
 			</div>
 		</div>
